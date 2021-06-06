@@ -1,0 +1,4 @@
+﻿  Backgammon.cpp
+C:\Users\Murat_pc\source\repos\Backgammon\Backgammon\Backgammon.cpp(11,32): warning C4081: expected 'newline'; found '.'
+C:\Users\Murat_pc\source\repos\Backgammon\Backgammon\Backgammon.cpp(423): warning C4717: 'GameProcess': recursive on all control paths, function will cause runtime stack overflow
+  Backgammon.vcxproj -> C:\Users\Murat_pc\source\repos\Backgammon\Debug\Backgammon.exe
